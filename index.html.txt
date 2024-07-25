@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+	<h1> Hello World ! </h1>
+	<h1> This is an AWS ECS Fargate Project </h1>
+
+</body>
+</html>
